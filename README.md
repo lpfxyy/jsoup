@@ -122,7 +122,10 @@ if (!list.isEmpty()) {
 1. 页面在爬取数据的时候显示一个ProgressDialog来提示用户。
 
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> e9cc748921431c0dac73d4a8b1a89aff7a3e91a0
 ProgressDialog dialog = new ProgressDialog(this);
             dialog.setMessage("正在抓取数据...");
             dialog.setCancelable(false);
